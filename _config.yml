@@ -15,12 +15,12 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Owen P. Antonio
 tagline: BSCOE-5 regular graduating
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: DSC_0311.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: newophey@gmail.com
 phone: 0910 992 6586
-website: blog.webjeda.com #do not add http://
+website: blog.owenantonio.com #do not add http://
 github: owen2k17
 facebook: https://www.facebook.com/owen.antonio
 
